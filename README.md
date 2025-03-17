@@ -1,6 +1,6 @@
 # Backdrop CMS 1.27.1 - Automated Authenticated RCE
 
-Este [script](<autoDropRCE.py.md>) permite obtener acceso de forma automatizada a la máquina víctima sobre una instalación vulnerable de **Backdrop CMS 1.27.1**. La vulnerabilidad explotada radica en la gestión de módulos, donde el atacante puede subir e instalar un módulo malicioso en el sistema.
+Este [script](<autoDropRCE.py>) permite obtener acceso de forma automatizada a la máquina víctima sobre una instalación vulnerable de **Backdrop CMS 1.27.1**. La vulnerabilidad explotada radica en la gestión de módulos, donde el atacante puede subir e instalar un módulo malicioso en el sistema.
 
 Las opciones disponibles son las siguientes:
 
