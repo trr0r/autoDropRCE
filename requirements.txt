@@ -1,0 +1,4 @@
+requests
+pwntools
+termcolor
+beautifulsoup4
