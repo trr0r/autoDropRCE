@@ -18,7 +18,7 @@ options:
   -u, --username   USERNAME    Valid Backdrop username - ej: trr0r
   -p, --password   PASSWORD    Valid Backdrop password - ej: trr0r
    
-  -l, --listen-port PORT       Listen port                                               (default = 4444)
+  -l, --listen-port PORT       Listen port                                             (default = 4444)
 ```
 
 ___
