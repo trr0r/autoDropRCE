@@ -9,7 +9,7 @@ usage: autoDropRCE.py [-h] -t TARGET_URL -h-ip HOST_IP -u USERNAME -p PASSWORD [
 
 🪂 Backdrop CMS 1.27.1 - Automated Authenticated RCE 🪂
 
-   ej: python3 autoDropRCE.py -t http://backdrop-example.com -i 172.17.0.1 -u trr0r -p trr0r
+   ej: python3 autoDropRCE.py -t http://backdrop-example.com -h-ip 172.17.0.1 -u trr0r -p trr0r
 
 options:
   -h, --help                   show this help message and exit

