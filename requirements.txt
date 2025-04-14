@@ -2,3 +2,4 @@ requests
 pwntools
 termcolor
 beautifulsoup4
+argparse
